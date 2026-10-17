@@ -1,0 +1,15 @@
+{
+  "cSpell.language": "en,ru",
+  "cSpell.words": [
+    "pythonocc", "OCCT", "B-rep", "STEP", "inbox", "devlog", "датасет", "датасеты", "инференс", "инференса", "сниппет"
+  ],
+  "ltex.language": "ru-RU",
+  "ltex.enabled": ["markdown"],
+  "markdownlint.config": {
+    "MD013": false,
+    "MD033": false
+  },
+  "[markdown]": {
+    "editor.wordWrap": "on"
+  }
+}
