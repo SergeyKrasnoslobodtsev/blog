@@ -13,7 +13,3 @@ posts/          опубликованное
 assets/         картинки, схемы, «до/после»
 .vscode/        проверка орфографии и markdownlint
 ```
-
-## Скилл devlog
-
-Заметки сюда пишет персональный скилл Claude Code `devlog` (`~/.claude/skills/devlog`): `/devlog` из любого проекта — запись, коммит и пуш.
